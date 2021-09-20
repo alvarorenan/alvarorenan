@@ -1,4 +1,4 @@
-### Olá! Eu sou Alvaro Renan
+### Oi! Meu nome é Álvaro
 
 - 🔭 Pretendo trabalhar como desenvolvedor Full Stack
 - 🌱 Estudando Angular, TypeScript e JavaScript
