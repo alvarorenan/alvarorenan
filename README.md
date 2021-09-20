@@ -3,11 +3,10 @@
 - 🔭 Hoje eu trabalho como Suporte Técnico Remoto, mas futuramente pretendo trabalhar como Full Stack Developer
 - 🌱 Estudando Angular, TypeScript e JavaScript
 - ⚡ Fun fact: Um dos meus passatempos é brincar com códigos públicos que encontro no github
-
 <div>
   <a href="https://github.com/alvarorenan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarorenan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarorenan&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarorenan&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
