@@ -5,8 +5,8 @@
 - ⚡ Fun fact: Um dos meus passatempos é brincar com códigos públicos que encontro no GitHub
 <div>
   <a href="https://github.com/alvarorenan">
-<img height="180em" alt="unbugformat" src="https://github-readme-stats.vercel.app/api?username=alvarorenan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarorenan&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" alt="unbugformat" src="https://github-readme-stats.vercel.app/api?username=alvarorenan&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarorenan&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
