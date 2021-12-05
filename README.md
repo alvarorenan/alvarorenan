@@ -1,8 +1,13 @@
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
 ### Hey ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+```
 Hi, I'm Álvaro, Computer Technician at IFRN and currently studying Computer Engineering at UFRN.
+I acted as a junior fullstack developer. Technology buff. I have an affinity with the Java programming language,
+but always willing to learn new technologies.
+```
 
-I acted as a junior fullstack developer. Technology buff. I have an affinity with the Java programming language, but always willing to learn new technologies.
 
 I'm currently working on the project "Brasil, essa é nossa praia" as a back-end developer using Java, JSF, Spring Boot, Postgresql, RabbitMQ, Open Street Maps and MongoDB.
 
