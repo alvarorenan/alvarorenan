@@ -9,7 +9,7 @@ but always willing to learn new technologies.
 ```
 
 
-I'm currently working on the project "Brasil, essa é nossa praia" as a back-end developer using Java, JSF, Spring Boot, Postgresql, RabbitMQ, Open Street Maps and MongoDB.
+At the moment I am not participating in any project or company. But I've already worked on the project "Brasil essa é a nossa praia" and on the "Painel de Segurança Hídrica", in both I used Spring Boot, SQL, Postgres, PostGIS, JS, MongoDB and Cypress
 
 <div>
   <a href="https://github.com/alvarorenan">
