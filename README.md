@@ -9,7 +9,9 @@ but always willing to learn new technologies.
 ```
 
 
-At the moment I am not participating in any project or company. But I've already worked on the project "Brasil essa é a nossa praia" and on the "Painel de Segurança Hídrica", in both I used Spring Boot, SQL, Postgres, PostGIS, JS, MongoDB and Cypress
+Java Backend Developer with skills in Spring Boot, Python, Golang, Docker, Kubernetes, REST API, SQL, NoSQL, MySQL, Java EE, HTML5, CSS, JavaScript, NodeJs, Hibernate. Expertise in manual and automated testing (JUnit, Cypress, Pytest, Tox, Selenium) and tools such as Postman, Jira, Git.
+
+I work as Backend Developer in the project "FUNPEC/UFRN/CHATBOT" (since 02/01/2024), using Java, Python, Spring Boot, Langchain, OpenAI. Previous participation in the project "Lenovo Nric - 5G Openran Intelligent Controller" (31/05/2023 - 31/01/2024), developing APIs in Python, Golang and using Kubernetes.
 
 <div>
   <a href="https://github.com/alvarorenan">
