@@ -4,7 +4,7 @@
 
 ```
 Hi, I'm Álvaro, Computer Technician at IFRN and currently studying Computer Engineering at UFRN.
-I acted as a junior fullstack developer. Technology buff. I have an affinity with the Java programming language,
+Technology buff. I have an affinity with the Java programming language,
 but always willing to learn new technologies.
 ```
 
