@@ -8,11 +8,9 @@ Technology buff. I have an affinity with the Java programming language,
 but always willing to learn new technologies.
 ```
 
-Backend Developer with solid experience in Python, Django, Flask, Java, Spring Boot, and Golang, working on projects involving artificial intelligence, microservices, and REST APIs. Responsible for developing and maintaining complex platforms, integrating with external APIs, relational and NoSQL databases, and implementing automated testing with JUnit, Cypress, Pytest, and Tox. Experienced in microservices architecture, Docker, Kubernetes, and agile methodologies like Scrum and Kanban.
+Backend Developer with skills in Spring Boot, Python, Golang, Docker, Kubernetes, REST APIs, SQL, NoSQL, MySQL, Java EE, HTML5, CSS, JavaScript, Node.js, and Hibernate. Experienced in manual and automated testing (JUnit, Cypress, Pytest, Tox, Selenium) and tools such as Postman, Jira, Git, and Confluence.
 
-Key responsibilities include developing ChatBOT systems using Langchain and OpenAI, creating APIs and microservices for real-time data analysis, managing BI dashboards, integrating SQL/NoSQL and vector databases, and providing technical support with process automation. Also experienced in basic front-end integration (HTML, CSS, JavaScript, React/Angular) and data analysis using Python libraries (pandas, numpy, matplotlib, seaborn).
-
-This consolidated experience enabled the delivery of scalable, secure, and efficient solutions by combining modern technologies, software engineering best practices, and results-driven development.
+Previously contributed to multiple R&D projects, including FUNPEC/UFRN/CHATBOT (in partnership with the Federal Court of Rio Grande do Norte, 02/2024 – 01/2025), Segurança Hídrica (Ministry of Development), and BRASIL, ESSA É NOSSA PRAIA! (Ministry of Tourism), developing AI-driven applications, microservices, and data-driven solutions. Currently working as a Backend Developer at CTRL+Play, building AI-powered applications and microservices using Python, Django REST Framework, Langchain, OpenAI, relational and NoSQL databases, and vector databases. Previously participated in the Lenovo Nric - 5G Openran Intelligent Controller project (31/05/2023 – 31/01/2024), developing APIs with Python and Golang, leveraging Kubernetes for deployment and orchestration.
 
 <div>
   <a href="https://github.com/alvarorenan">
