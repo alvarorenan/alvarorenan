@@ -8,10 +8,11 @@ Technology buff. I have an affinity with the Java programming language,
 but always willing to learn new technologies.
 ```
 
+Backend Developer with solid experience in Python, Django, Flask, Java, Spring Boot, and Golang, working on projects involving artificial intelligence, microservices, and REST APIs. Responsible for developing and maintaining complex platforms, integrating with external APIs, relational and NoSQL databases, and implementing automated testing with JUnit, Cypress, Pytest, and Tox. Experienced in microservices architecture, Docker, Kubernetes, and agile methodologies like Scrum and Kanban.
 
-Java Backend Developer with skills in Spring Boot, Python, Golang, Docker, Kubernetes, REST API, SQL, NoSQL, MySQL, Java EE, HTML5, CSS, JavaScript, NodeJs, Hibernate. Expertise in manual and automated testing (JUnit, Cypress, Pytest, Tox, Selenium) and tools such as Postman, Jira, Git.
+Key responsibilities include developing ChatBOT systems using Langchain and OpenAI, creating APIs and microservices for real-time data analysis, managing BI dashboards, integrating SQL/NoSQL and vector databases, and providing technical support with process automation. Also experienced in basic front-end integration (HTML, CSS, JavaScript, React/Angular) and data analysis using Python libraries (pandas, numpy, matplotlib, seaborn).
 
-I work as Backend Developer in the project "FUNPEC/UFRN/CHATBOT" (since 02/01/2024), using Java, Python, Spring Boot, Langchain, OpenAI. Previous participation in the project "Lenovo Nric - 5G Openran Intelligent Controller" (31/05/2023 - 31/01/2024), developing APIs in Python, Golang and using Kubernetes.
+This consolidated experience enabled the delivery of scalable, secure, and efficient solutions by combining modern technologies, software engineering best practices, and results-driven development.
 
 <div>
   <a href="https://github.com/alvarorenan">
